@@ -3,7 +3,7 @@
 
 
  # 👋 Hi, I’m Mahadevprasad D L
-         Full Stack Web Developer | Contributor at GSSoC'24 | Mysql | Php .
+         Full Stack Web Developer | Contributor at GSSoC'24 
   
 - 🌱 Trying to become an expert in FullStack development ❤️.
 - 💻 I Love exploring new tech stacks and building cool stuff.
