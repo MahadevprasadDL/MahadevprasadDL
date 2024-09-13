@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , React js**
+- 🌱 I’m currently learning **DSA , React js, Django**
 
-- 👨‍💻 All of my projects are available at [<strong><a href="https://github.com/MahadevprasadDL" target="_blank">GITHUB</a></strong>]
+- 👨‍💻 All of my projects are available at <strong><a href="https://github.com/MahadevprasadDL" target="_blank">GITHUB</a></strong>
 
 - 💬 Ask me about **FullStack Web development (html,css,js,php,mysql)**
 
-- 📫 How to reach me **girishdl78524@gmail.com**
+- 📫 Reach out to me at **girishdl78524@gmail.com**
 
-- 📄 Check out <strong><a href="https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link" target="_blank">My Resume</a></strong>
+- 📄 Check out my resume here <strong><a href="https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link" target="_blank">My Resume</a></strong>
 
 - ⚡ Fun fact **I am Funny**
 
