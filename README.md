@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevprasaddl&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevprasaddl" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadevprasaddl" alt="mahadevprasaddl" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **DSA , React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahadevprasadDL](https://github.com/MahadevprasadDL)
@@ -12,7 +16,7 @@
 
 - 📫 How to reach me **girishdl78524@gmail.com**
 
-- 📄 Check out my Resume here [file:///C:/Users/admin/Downloads/MY_RESUME.pdf](file:///C:/Users/admin/Downloads/MY_RESUME.pdf)
+- 📄 Check out my Resume here [https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link](https://drive.google.com/file/d/1Dkoysq8dFd5SSM3QrWL8R_B3cTHmTJZI/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Funny**
 
