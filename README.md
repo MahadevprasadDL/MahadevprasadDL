@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA , React js, Django**
 
-- 👨‍💻 All of my projects are available at <strong><a href="https://github.com/MahadevprasadDL" target="_blank">GITHUB</a></strong>
+- 👨‍💻 All of my projects are available at <strong><a href="https://github.com/MahadevprasadDL" target="_blank">Github</a></strong>
 
 - 💬 Ask me about **FullStack Web development (html,css,js,php,mysql)**
 
