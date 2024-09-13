@@ -4,15 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadevprasaddl&label=Profile%20views&color=0e75b6&style=flat" alt="mahadevprasaddl" /> </p>
 
-- 🌱 I’m currently learning DSA , Django ,  Reactjs, Nodejs
+- 🌱 I’m currently learning **DSA , React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahadevprasadDL](https://github.com/MahadevprasadDL)
 
-- 💬 Ask me about FullStack Web development (html,css,js,php,mysql)
+- 💬 Ask me about **FullStack Web development (html,css,js,php,mysql)**
 
-- 📫 How to reach me girishdl78524@gmail.com
+- 📫 How to reach me **girishdl78524@gmail.com**
 
-- ⚡ Fun fact I am Funny
+- 📄 Check out my Resume here [file:///C:/Users/admin/Downloads/MY_RESUME.pdf](file:///C:/Users/admin/Downloads/MY_RESUME.pdf)
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
